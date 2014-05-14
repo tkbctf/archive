@@ -1,4 +1,4 @@
-# Binary 350 - Penalty
+# Binary 300 - Penalty
 
 ## Question
 ```
